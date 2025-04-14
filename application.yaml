@@ -12,7 +12,7 @@ spec:
   project: edu31
   
   source:
-    repoURL: https://github.com/shclub/edu14-2.git
+    repoURL: https://github.com/dn7638/edu14-2.git
     targetRevision: HEAD
     path: apps
   
