@@ -9,7 +9,7 @@ metadata:
 
 spec:
 
-  project: edu31
+  project: default
   
   source:
     repoURL: https://github.com/dn7638/edu14-2.git
@@ -19,7 +19,7 @@ spec:
   destination:
     server: https://kubernetes.default.svc
     # The namespace will only be set for namespace-scoped resources that have not set a value for .metadata.namespace
-    namespace: edu31
+    namespace: default
   
   syncPolicy:
     automated: 
