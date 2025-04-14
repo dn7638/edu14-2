@@ -8,7 +8,7 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 
 spec:
-  project: edu31
+  project: default
   
   source:
     repoURL: https://github.com/dn7638/edu14-2.git
